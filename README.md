@@ -1,17 +1,7 @@
 <h3 align="center">
   Hi There!
-  <br />
-  <br />
-  <img src="https://media.giphy.com/media/l0FF56cexcW2JAXCJj/giphy.gif" width="28">
 </h3>
-
-<!-- Social icons section -->
-<p align="center">
-<a href="https://www.linkedin.com/in/alikorabbaslu/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="mailto:ali.korabbaslu@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-</p>
 <br/>
-
 
 Summary
 

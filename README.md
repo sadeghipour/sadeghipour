@@ -7,7 +7,7 @@ Summary
 
 <p>Full Stack Developer and DevOps using Kanban Methodologies, with Expertise in backend and frontend Development; over 8 years of Experience.</p>
 <p>Cooprate with 20+ Coworkers on 50+ Different Projects. </p>
-<p>I in love with: </p>
+<p>I'm in love with: </p>
 <img src="https://skillicons.dev/icons?i=aws,ts,react,nodejs,github,gitlab,svelte,vscode,linux,docker,bash,powershell" />
 <br/>
 

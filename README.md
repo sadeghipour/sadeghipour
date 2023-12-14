@@ -1,5 +1,7 @@
 <h3 align="center">
   Hi There!
+  <br />
+  <br />
   <img src="https://media.giphy.com/media/l0FF56cexcW2JAXCJj/giphy.gif" width="28">
 </h3>
 
